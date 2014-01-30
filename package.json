@@ -1,0 +1,25 @@
+{
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "beatrix": "http://reggie.360incentives.io:8083/package/beatrix/gte/1.0/lt/2",
+    "rc": "git+https://github.com/360incentives/rc.git",
+    "gm": "~1.14.2",
+    "request": "~2.33.0"
+  },
+  "license": "Copyright 360 Incentives Inc.",
+  "name": "cats",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo NO TESTS, what!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/360incentives/cats.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/360incentives/cats/issues"
+  },
+  "homepage": "https://github.com/360incentives/cats"
+}
